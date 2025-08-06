@@ -5,3 +5,4 @@ Pixora is a modern web-based gallery and microblogging platform designed for pho
 commit 1
 commit 2 janno 
 commit 3 dean
+kaya pa dean
