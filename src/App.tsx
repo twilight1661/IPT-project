@@ -14,7 +14,7 @@ import MyEvents from "./pages/MyEvents";
 import EventDetail from "./pages/EventDetail";
 import NotFound from "./pages/NotFound";
 
-const queryClient = new QueryClien();
+const queryClient = new QueryClient();
 
 const App = () => (
   <QueryClientProvider client={queryClient}>
